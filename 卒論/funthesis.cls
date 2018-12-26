@@ -422,7 +422,7 @@
    \thispagestyle{empty}
    \vskip 15mm   % modified by 2004.11.10 N.T.
 %------------------------% added by 2004.11.10 N.T. (start)
-    \textbf{\large 平成\ifnum\heiseinendo=1 元年\else18年度\fi
+    \textbf{\large 平成\ifnum\heiseinendo=1 元年\else30年度\fi
         ~公立はこだて未来大学卒業論文}\par%
     \vskip 2.5em%
 %------------------------% added by 2004.11.10 N.T. (end)
