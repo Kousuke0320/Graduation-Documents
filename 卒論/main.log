@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  26 DEC 2018 17:04
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  6 JAN 2019 22:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -50,10 +50,10 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 (/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: dvips.def on input line 99.
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
 
-(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvips.def
-File: dvips.def 2017/06/20 v3.1d Graphics/color driver for dvips
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
 ))
 \Gin@req@height=\dimen121
 \Gin@req@width=\dimen122
@@ -112,82 +112,136 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 2.
-
-
-LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 35.
-
-
-LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 35.
-
-[1
-
-])
+)
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [2]
+
+
+LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
+(Font)              using `JT1/mc/m/n' instead on input line 62.
+
+
+LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
+(Font)              using `JY1/mc/m/n' instead on input line 62.
+
+[1
+
+]
 第 1 章
 [1
 
 ]
 第 2 章
 
-Overfull \hbox (110.92947pt too wide) in paragraph at lines 107--117
+Overfull \hbox (110.92947pt too wide) in paragraph at lines 102--112
+ [][][] 
+ []
+
+
+Overfull \hbox (18.37773pt too wide) in paragraph at lines 125--136
  [][][] 
  []
 
 [2
 
-] [3]
+]
+File: figures/FFS.png Graphic file (type bmp)
+<figures/FFS.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3]
+Overfull \hbox (27.60167pt too wide) in paragraph at lines 194--205
+ [][][] 
+ []
+
+[4] [5]
 第 3 章
-[4
+File: figures/groupwork1.png Graphic file (type bmp)
+<figures/groupwork1.png>
+[6
 
 ]
-第 4 章
-[5
+File: figures/en1.png Graphic file (type bmp)
+<figures/en1.png>
+File: figures/graph1.png Graphic file (type bmp)
+<figures/graph1.png>
 
-] [6]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[7]
+File: figures/graph2.png Graphic file (type bmp)
+<figures/graph2.png>
+File: figures/graph3.png Graphic file (type bmp)
+<figures/graph3.png>
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[8]
+File: figures/graph4.png Graphic file (type bmp)
+<figures/graph4.png>
+ [9] [10]
+第 4 章
+File: figures/gamen.png Graphic file (type bmp)
+<figures/gamen.png>
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[11
+
+] [12] [13]
 第 5 章
-[7
+[14
 
 ]
 第 6 章
-[8
+[15
 
-] [9
+] [16
 
-] [10
+] [17
 
-] [11
+] [18
 
-] [12
+] [19
 
 ] (./main.lof)
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [13
+ [20
 
 ] (./main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [14
+ [21
 
 ] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  ) 
 Here is how much of TeX's memory you used:
- 757 strings out of 493281
- 8813 string characters out of 6145040
- 77492 words of memory out of 5000000
- 4729 multiletter control sequences out of 15000+600000
+ 822 strings out of 493281
+ 9730 string characters out of 6145040
+ 78201 words of memory out of 5000000
+ 4782 multiletter control sequences out of 15000+600000
  17885 words of font info for 69 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 28i,8n,25p,946b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 25i,8n,21p,1185b,322s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (19 pages, 35368 bytes).
+Output written on main.dvi (25 pages, 60228 bytes).
