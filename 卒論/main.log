@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  8 JAN 2019 16:20
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  9 JAN 2019 18:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -115,11 +115,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 
 LaTeX Font Warning: Font shape `JT1/mc/m/it' undefined
-(Font)              using `JT1/mc/m/n' instead on input line 33.
+(Font)              using `JT1/mc/m/n' instead on input line 35.
 
 
 LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
-(Font)              using `JY1/mc/m/n' instead on input line 33.
+(Font)              using `JY1/mc/m/n' instead on input line 35.
 
 [1
 
@@ -134,7 +134,7 @@ LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
 ]
 第 2 章
 
-Overfull \hbox (49.9865pt too wide) in paragraph at lines 110--120
+Overfull \hbox (18.37773pt too wide) in paragraph at lines 110--120
  [][][] 
  []
 
@@ -145,7 +145,7 @@ Overfull \hbox (49.9865pt too wide) in paragraph at lines 110--120
 [4
 
 ]
-Overfull \hbox (18.37773pt too wide) in paragraph at lines 174--185
+Overfull \hbox (18.37773pt too wide) in paragraph at lines 170--181
  [][][] 
  []
 
@@ -158,17 +158,18 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-
-Overfull \hbox (27.60167pt too wide) in paragraph at lines 243--254
+Overfull \hbox (27.60167pt too wide) in paragraph at lines 239--250
  [][][] 
  []
 
+[5]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[5] [6] [7]
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[6] [7]
 第 4 章
 File: figures/groupwork1.png Graphic file (type bmp)
 <figures/groupwork1.png>
@@ -177,11 +178,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: figures/en1.png Graphic file (type bmp)
 <figures/en1.png>
-
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 296--297
- [][] 
- []
-
 [8
 
 ]
@@ -191,30 +187,15 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/graph1.png Graphic file (type bmp)
 <figures/graph1.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 304--305
- [][] 
- []
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: figures/graph2.png Graphic file (type bmp)
 <figures/graph2.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 316--317
- [][] 
- []
-
-
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 File: figures/graph3.png Graphic file (type bmp)
 <figures/graph3.png>
-
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 325--326
- [][] 
- []
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -222,18 +203,25 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/graph4.png Graphic file (type bmp)
 <figures/graph4.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 334--335
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10] [11] [12]
+第 5 章
+[13
+
+]
+File: figures/sysytemstrucuture.png Graphic file (type bmp)
+<figures/sysytemstrucuture.png>
+
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 413--414
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[10] [11] [12] [13]
-第 5 章
-[14
-
-]
+[14]
 File: figures/gamen.png Graphic file (type bmp)
 <figures/gamen.png>
 
@@ -244,7 +232,27 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/gamensenni.png Graphic file (type bmp)
 <figures/gamensenni.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 416--417
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 442--443
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: figures/chart.png Graphic file (type bmp)
+<figures/chart.png>
+
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 449--450
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+File: figures/groupseisei.png Graphic file (type bmp)
+<figures/groupseisei.png>
+
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 462--463
  [][] 
  []
 
@@ -252,32 +260,43 @@ Overfull \hbox (8.79134pt too wide) in paragraph at lines 416--417
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [16] [17]
+File: figures/auto.png Graphic file (type bmp)
+<figures/auto.png>
+
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 498--499
+ [][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[18] [19]
 第 6 章
-[18
+[20
 
 ]
 第 7 章
-[19
+[21
 
-] [20
+] [22
 
-] [21
+] [23
 
-] [22] [23
+] [24] [25
 
-] [24
+] [26
 
 ] (./main.lof)
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [25
+ [27
 
 ] (./main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [26
+ [28
 
 ] (./main.aux)
 
@@ -288,12 +307,12 @@ LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
  ) 
 Here is how much of TeX's memory you used:
- 835 strings out of 493281
- 9875 string characters out of 6145040
- 80201 words of memory out of 5000000
- 4794 multiletter control sequences out of 15000+600000
+ 852 strings out of 493281
+ 10198 string characters out of 6145040
+ 79201 words of memory out of 5000000
+ 4808 multiletter control sequences out of 15000+600000
  17885 words of font info for 69 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 27i,10n,23p,1185b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,10n,25p,946b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (31 pages, 74476 bytes).
+Output written on main.dvi (33 pages, 79164 bytes).
