@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  13 JAN 2019 19:47
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  13 JAN 2019 21:27
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -214,10 +214,6 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/sysytemstrucuture.png Graphic file (type bmp)
 <figures/sysytemstrucuture.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 413--414
- [][] 
- []
-
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -236,9 +232,6 @@ Overfull \hbox (8.79134pt too wide) in paragraph at lines 442--443
  [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 File: figures/chart.png Graphic file (type bmp)
 <figures/chart.png>
 
@@ -255,9 +248,6 @@ File: figures/groupseisei.png Graphic file (type bmp)
 Overfull \hbox (8.79134pt too wide) in paragraph at lines 462--463
  [][] 
  []
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
 
 [16] [17]
 File: figures/auto.png Graphic file (type bmp)
@@ -277,28 +267,36 @@ File: figures/zikken1.png Graphic file (type bmp)
 [20
 
 ] [21]
+File: figures/test.png Graphic file (type bmp)
+<figures/test.png>
+
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 556--557
+ [][] 
+ []
+
+[22] [23]
 第 7 章
-[22
+[24
 
-] [23
+] [25
 
-] [24
+] [26
 
-] [25] [26
+] [27] [28
 
-] [27
+] [29
 
 ] (./main.lof)
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [28
+ [30
 
 ] (./main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [29
+ [31
 
 ] (./main.aux)
 
@@ -306,12 +304,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 858 strings out of 493281
- 10279 string characters out of 6145040
+ 863 strings out of 493281
+ 10347 string characters out of 6145040
  79201 words of memory out of 5000000
- 4813 multiletter control sequences out of 15000+600000
+ 4817 multiletter control sequences out of 15000+600000
  17885 words of font info for 69 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  28i,10n,25p,946b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (34 pages, 86576 bytes).
+Output written on main.dvi (36 pages, 92788 bytes).
