@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  22 JAN 2019 14:54
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  23 JAN 2019 13:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -58,53 +58,71 @@ File: dvipdfmx.def 2017/06/24 v5.0g Graphics/color driver for dvipdfmx
 \Gin@req@height=\dimen121
 \Gin@req@width=\dimen122
 )
-(./main.aux)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/here/here.sty)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count96
+\float@exts=\toks16
+\float@box=\box42
+\@float@everytoks=\toks17
+\@floatcapt=\box43
+) (./main.aux
+
+LaTeX Warning: Label `testtest' multiply defined.
+
+
+LaTeX Warning: Label `testtest' multiply defined.
+
+
+LaTeX Warning: Label `testtest' multiply defined.
+
+)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 35.
-LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 38.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10.95> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 38.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 38.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <12> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 38.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 38.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <17.28> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 38.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 38.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <14.4> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 38.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 40.
  [1
 
 ]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 42.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 44.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 42.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 44.
  [2] [3]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 62.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 64.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 62.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 64.
  (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
@@ -134,7 +152,7 @@ LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
 ]
 第 2 章
 
-Overfull \hbox (18.37773pt too wide) in paragraph at lines 110--120
+Overfull \hbox (18.37773pt too wide) in paragraph at lines 112--122
  [][][] 
  []
 
@@ -145,7 +163,7 @@ Overfull \hbox (18.37773pt too wide) in paragraph at lines 110--120
 [4
 
 ]
-Overfull \hbox (18.37773pt too wide) in paragraph at lines 170--181
+Overfull \hbox (18.37773pt too wide) in paragraph at lines 172--183
  [][][] 
  []
 
@@ -158,7 +176,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (27.60167pt too wide) in paragraph at lines 239--250
+Overfull \hbox (27.60167pt too wide) in paragraph at lines 241--252
  [][][] 
  []
 
@@ -173,40 +191,23 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 第 4 章
 File: figures/groupwork1.png Graphic file (type bmp)
 <figures/groupwork1.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: figures/en1.png Graphic file (type bmp)
-<figures/en1.png>
 [8
 
 ]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+File: figures/en1.png Graphic file (type bmp)
+<figures/en1.png>
+ [9]
 File: figures/graph1.png Graphic file (type bmp)
 <figures/graph1.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
+ [10]
 File: figures/graph2.png Graphic file (type bmp)
 <figures/graph2.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
 File: figures/graph3.png Graphic file (type bmp)
 <figures/graph3.png>
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[9]
+ [11]
 File: figures/graph4.png Graphic file (type bmp)
 <figures/graph4.png>
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[10] [11] [12]
+ [12]
 第 5 章
 [13
 
@@ -228,14 +229,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/gamensenni.png Graphic file (type bmp)
 <figures/gamensenni.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 442--443
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 444--445
  [][] 
  []
 
 File: figures/chart.png Graphic file (type bmp)
 <figures/chart.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 449--450
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 451--452
  [][] 
  []
 
@@ -245,7 +246,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/groupseisei.png Graphic file (type bmp)
 <figures/groupseisei.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 462--463
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 464--465
  [][] 
  []
 
@@ -253,7 +254,7 @@ Overfull \hbox (8.79134pt too wide) in paragraph at lines 462--463
 File: figures/auto.png Graphic file (type bmp)
 <figures/auto.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 498--499
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 500--501
  [][] 
  []
 
@@ -270,49 +271,60 @@ File: figures/zikken1.png Graphic file (type bmp)
 File: figures/test.png Graphic file (type bmp)
 <figures/test.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 557--558
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 559--560
  [][] 
  []
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22] [23]
+File: figures/test.png Graphic file (type bmp)
+<figures/test.png>
+[22]
+File: figures/test.png Graphic file (type bmp)
+<figures/test.png>
+ [23]
+File: figures/test.png Graphic file (type bmp)
+<figures/test.png>
+ [24] [25] [26]
 第 7 章
-[24
+[27
 
-] [25
-
-] [26
-
-] [27] [28
+] [28
 
 ] [29
+
+] [30] [31
+
+] [32
 
 ] (./main.lof)
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [30
+ [33
 
 ] (./main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [31
+ [34
 
 ] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: There were multiply-defined labels.
+
  ) 
 Here is how much of TeX's memory you used:
- 863 strings out of 493281
- 10347 string characters out of 6145040
- 79201 words of memory out of 5000000
- 4817 multiletter control sequences out of 15000+600000
+ 932 strings out of 493281
+ 11373 string characters out of 6145040
+ 82311 words of memory out of 5000000
+ 4878 multiletter control sequences out of 15000+600000
  17885 words of font info for 69 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  28i,10n,25p,946b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (36 pages, 96100 bytes).
+Output written on main.dvi (39 pages, 107356 bytes).
