@@ -42,7 +42,8 @@
 %--------------------------------------------------------------------
 % 英文概要(250語程度)
 \begin{eabstract}
-Currently, problems that designers have to deal with are considering the relationship with the users and the society. Therefore, it becomes difficult to find the best answer with the sensitivity and creativity of individual designers.As a result, it is required to organize teams by members with various skills and to conduct creative activities systematically.In the previous studies, results are gotten by distributing human resources in a well-balanced manner.But, it has not been reported what kind of influence the member composition has on creative activities.Consequently, we conducted a survey about group work in creative activities.As a result, most people chose group work rather than personal work for different reasons such as expanding their own vision.In this research, we suggest a web application, named ‘Skill Pentagon’ for organizing more various groups by visualizing the user's skill.\end{eabstract}
+Currently, problems that designers have to deal with are considering the relationship with the users and the society. Therefore, it becomes difficult to find the best answer with the sensitivity and creativity of individual designers.As a result, it is required to organize teams by members with various skills and to conduct creative activities systematically.In the previous studies, results are gotten by distributing human resources in a well-balanced manner.But, it has not been reported what kind of influence the member composition has on creative activities.Consequently, we conducted a survey about group work in creative activities.As a result, most people chose group work rather than personal work for different reasons such as expanding their own vision.In this research, we suggest a web application, named ‘Skill Pentagon’ for organizing more various groups by visualizing the user's skill.
+\end{eabstract}
 
 % 英文キーワード(5個程度をコンマ(,)で区切って羅列する)
 \begin{ekeyword}
@@ -52,7 +53,7 @@ Design Process, Group work, Web application, Creativity
 %--------------------------------------------------------------------
 % 和文概要(400字程度)
 \begin{jabstract}
-現在デザイナーが対処すべき問題は，ユーザや社会との関係性をより丹念に考慮することが 求められるようになり，デザイナー個人の感性や創造性だけでは最適な答えを出すことは難しくなっている.このことから，多種多様なスキルを持つメンバーによってチームを組み，組織的に創造活動をすることが求められている.  先行研究では，人的リソースをバランスよく配分することで全体的な成果を挙げたことが報告されている.しかし，個人の創造活動がメンバー構成によってどのように変化したかは報告されていない.そのため，公立はこだて未来大学にて創造活動におけるグ ループワークの現状についてのアンケート調査を行った.その結果，視野が広がるなどの理由から，自分と異なるスキルを持つ人とグループワークを支持する人が大多数であるということが分かった. 本稿ではユーザのスキルを可視化することにより，より多種多様なグループ編成を行うための Web アプリケーションの提案を行う.
+現在デザイナーが対処すべき問題は，ユーザや社会との関係性をより丹念に考慮することが 求められるようになり，デザイナー個人の感性や創造性だけでは最適な答えを出すことは難しくなっている.このことから，多種多様なスキルを持つメンバーによってチームを組み，組織的に創造活動をすることが求められている.  先行研究では，様々な要素を利用してグループ編成を行なっている.しかし，グループは実験者が意図して編成しているため，被験者側がどのようなグループなのか把握できない問題がある.そこで，公立はこだて未来大学にて創造活動におけるグ ループワークの現状についてのアンケート調査を行った.その結果，視野が広がるなどの理由から，自分と異なるスキルを持つ人とグループワークを支持する人が大多数であるということが分かった. 本稿ではユーザのスキルを可視化することにより，より多種多様なグループ編成を行うための Web アプリケーションの提案を行う.
 \end{jabstract}
 
 % 和文キーワード(5個程度をコンマ(,)で区切って羅列する)
@@ -82,7 +83,8 @@ Design Process, Group work, Web application, Creativity
 \ しかし、グループワークにおいて, グループを形成するメンバーによっては、手を抜く学生が生じ、一人に過剰な負荷がかかるなどの問題も指摘されていることもあり\cite{A4}様々なグループ形成方法が議論されているのが現状である.
 
 \section{研究目的}
-本研究では創造性とグループワークに着目し,  個人のスキル，情報を可視化し，グループワークをする際により多種多様なスキルを持つメンバーによってグループを構成するためのツールの提案を行う．
+本研究では創造性とグループワークに着目し,  個人のスキル，情報を可視化し，グループワークをする際により安定し，
+グループメンバーが満足するグループを構成するためのツールの提案を行う．
 %--------------------------------------------------------------------
 \chapter{用語定義}
 \section{創造性}
@@ -284,6 +286,9 @@ FFS理論で各因子を抽出したうえで，グループでの協調学習�
 \section{目的}
 
 より多種多様なスキルを持つメンバーによるグループを構成するツールを制作するため，グループワークの現状を調査する．現状を把握することによって，問題を解決する方法を考える．
+
+より安定しグループを構成するツールを制作するため，グループワークの現状を調査する．現状を把握することによって，問題を解決する方法を考える．
+
 
 \section{調査方法}
 
@@ -508,7 +513,16 @@ $
 
 %--------------------------------------------------------------------
 \chapter{実験}
-本研究で制作したシステムの有用性を判断するために実験を行なった．
+本研究で制作したシステムの有用性を判断するために実験を行なった．実験の様子を図で示す．
+
+\begin{figure}[h]
+ \centering
+   \includegraphics[width=100mm]{figures/zikkennyousu.png}
+ \caption{実験の様子}
+ \label{auto}
+\end{figure}
+
+
 \section{実験目的}
 制作したシステムの新規性はユーザー間のスキルの可視化と共有である。したがって本実験では，「スキルの可視化」に最も着目して行う．またシステムの機能の一つであるグループ自動生成機能の効果を明らかにすることと，システムの改善点を明らかにすることにも着目する．
 したがって本実験の目的は，制作したシステムがグループワークの結果にどのように影響を及ぼすかを明らかにし，システムの有用性を判断することとする．
@@ -561,38 +575,36 @@ $
  \label{testtest}
 \end{figure}
 
-\section{実験}
-
 \section{実験結果}
 
 \subsection{主観評価}
 アンケートによる主観評価結果の結果．システムを使用したグループとシステムを使用していないグループのどちらが上手く進めることができたかという説明に対して，
 12名（67\%）がシステムを使用したグループ，6名（33\%）がシステムを使用していないグループと回答した．
-\begin{figure}[h]
+\begin{figure}[H]
  \centering
-   \includegraphics[width=100mm]{figures/test.png}
- \caption{スキル入力ページ}
+   \includegraphics[width=100mm]{honhon0.png}
+ \caption{どちらのグループがうまくいったか}
  \label{testtest}
 \end{figure}
 
 スキルチャートを見ることで相手への理解が深まったかという質問に対して，3名（17\%）がとても深まった，11名（61\%）が深まった，3名（17\%）がどちらでもない，1名（6\%）が深まらなかった，0名（0\%）が全く深まらなかったと回答した．
-\begin{figure}[h]
+\begin{figure}[H]
  \centering
-   \includegraphics[width=100mm]{figures/test.png}
- \caption{スキル入力ページ}
+   \includegraphics[width=100mm]{honban2.png}
+ \caption{チャートを見ることで相手への理解が深まったか}
  \label{testtest}
 \end{figure}
 
 本システムをまた利用したいかという質問に対して，4名（22\%）がとてもそう思う，10名（56\%）がそう思う，3名（17\%）がどちらでもない，1名（6\%）がそう思わない，0名が全くそう思わないと回答した．
-\begin{figure}[h]
+\begin{figure}[H]
  \centering
-   \includegraphics[width=100mm]{figures/test.png}
- \caption{スキル入力ページ}
+   \includegraphics[width=100mm]{honban1.png}
+ \caption{本システムをまた利用したいか}
  \label{testtest}
 \end{figure}
 
 システムを利用した感想の自由記述欄では，「相手のスキルがわかることで，アイデアから形にする過程がスムーズにいった」という意見や「グループ分けをするのに役に立ちそう」などの意見が得られた．
-システムの改善案の自由記述では，「スキルの入力方法が自己申告制なので信憑性が低いのではないか」という意見や「チャートが誰のチャートか見づらかった」などのインターフェースデザインの意見も得られた．
+システムの改善案の自由記述では，「スキルの入力方法が自己申告制なので信憑性が低いのではないか」という意見や「チャートが誰のチャートか見づらかった」などのユーザーインターフェースデザインの意見も得られた．
 
 \subsection{客観的評価}
 前述の創造性成果物の評価手法を用いて以下の結果が得られた（表\ref{客観的評価}）．表\ref{客観的評価}の「スキル最大値」は，グループ内の５つのスキルの各最大値を足したものを表しており，スキル平均値はメンバー全員の５つのスキルの各平均値を足したものを表している．\\
@@ -600,7 +612,7 @@ $
 システムを使用していない場合の独創性得点の平均は3.58，分散0.62，実用性得点の平均は4.08．分散は1.04，総合得点の平均は7.67，分散は2.35，スキル最大値の平均は35，分散は13.6，スキル平均値の平均は28.6，分散は8.37であった．\\
 
 \ 
-\begin{table}[h]
+\begin{table}[H]
 \begin{center}
   \begin{tabular}{cccccc} \hline
   システム使用\tabularnewline \hline
@@ -632,9 +644,10 @@ $
 \end{table}
 
 \section{考察}
-実験を行なった結果，主観的による評価で67\%の被験者が「システムを使用したチームの方がグループワークが上手くいった」と回答していることから，一定数の被験者がシステムを使用した方が満足いくものだったと感じているのに対し，客観的による創造性成果物の評価ではシステムを使用したグループの方が成果物の評価が低いことがわかった．この結果から，システムを使用したグループが創造性に関して，より良い結果を出すグループだとは考えにくいことがわかる．\\
-\ しかしスキルの可視化をすることによって78\%が「深まった」もしくは「とても深まった」と回答していることと、スキルのチャートがあることによってチーム内の役割分担をすることができたという意見が多数あったことから，創造性の観点ではシステムの有用性は低いが，チーム内の役割分担，効率性の観点では有用性が高いことが示唆される．\\
-\ また創造性得点の平均値はシステムを使用していないグループが高いが、同時に分散の値も高いことから，システムのグループ自動生成機能が「成果の安定」という観点では有用であることが示唆された．しかし，本来の目的である創造性の向上には関係がないことがわかった．
+実験を行なった結果，主観的による評価で67\%の被験者が「システムを使用したチームの方がグループワークが上手くいった」と回答していることから，過半数
+の被験者がシステムを使用した方が満足のいくものだったと感じているのに対し，客観的による創造性成果物の評価ではシステムを使用したグループの方が成果物の評価が低いことがわかった．しかし，システムを使用していないグループ群の成果物の評価の分散が，システムを使用しているグループ群の成果物の評価の分散より高いことから，システムを使用したグループが創造性に関して，より良い結果を出すとは考えにくいが，システムのグループ自動生成機能が「成果の安定」をもたらすという観点では有用であることが示唆された．\\
+\ スキルの可視化をすることによって78\%が相手への理解が「深まった」，もしくは「とても深まった」と回答していることと、スキルのチャートがあることによってチーム内の役割分担をすることができたという意見が多数あったことから，チーム内の役割分担，効率性の観点では有用性が高いことが示唆される．\\
+\ 以上のことからシステムを使用することで，チーム間の差はなくなるが，創造性の成果物に関しての点数は低くなるため，第２章で定義した成果目的グループワークでは有用性は少なくいと考えられる．そこで学習者の学習程度を評価基準とし，学習課題に対する共通の関心や問題をメンバー構成の主体とする，学習目的グループワークでの使用が推奨すると考えられる． そこで本実験で行われた成果目的型グループワークではなく，学習目的型グループワークでの実験が必要であることを示唆した．
 
 
 %--------------------------------------------------------------------
@@ -644,9 +657,16 @@ $
 を支援するシステムの提案を行った．\\
 \ グループワークと創造性に着目したシステムを制作する上で，グループワークの現状を把握するためにアンケート調査を行い，自分の視野が広がる，成長できるなどの理由から自分と異なるスキルを持った人とグループワークを行いと思っている人が過半数であることを明らかにした．
 \ そこでグループ内のスキルを可視化し、共有するシステムの制作を行った．\\
-\ システムの有用性を確かめる実験を行なった結果，創造性の向上という観点ではシステムの有用性があるとは考えにくいことが示唆された．しかし成果物の安定やチーム内の役割分担，効率性という観点では，有用性が高いことが判断された．
+\ システムの有用性を確かめる実験を行なった結果，創造性の向上という観点ではシステムの有用性があるとは考えにくいことが示唆された．しかし成果物の安定やチーム内の役割分担，効率性という観点では，有用性が高いことが判断された．そこで本システムの使用用途は成果目的でのグループワークではなく，学習目的のグループワークで優位な結果が得られる可能性を示唆した．
 
 \section{今後の方針}
+本実験では１つのグループワークに対して，30分と短い時間での実験であった．
+そのため短いグループワークでのアイデアと
+今後の展望として，本研究で行われた成果目的型グループワークの実験ではなく，学習目的型グループワークでの実験が求められる．
+学習目的型グループワークでは，学習者の学習の程度を評価基準に行われるため，創造成果物を作成する授業形式での実験が求められる．
+まため，より長期的な調査を行うことが示唆される．
+また実験のアンケートで得たシステムの改善案では，客観的なスキルのデータでないためデータの信憑性がないことと，ユーザーインターフェースデザインの
+ことについて多く見られた．システムを改善していく．
 
 
 
@@ -717,7 +737,93 @@ Cambridge，1992 （小橋康章訳，創造的認知 ，森 北 出
 %--------------------------------------------------------------------
 \chapter*{付録その2}
 
-付録その2(関連資料など)を必要があれば載せる
+評価実験で得られたグループごとのスケッチを付録その２でまとめる
+\begin{figure}[H]
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+\includegraphics[width=50mm]{figures/group1.jpg}
+ \end{center}
+ \label{fig:seven}
+ \end{minipage}
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+ \includegraphics[width=50mm]{figures/group2.jpg}
+ \end{center}
+ \label{fig:eight}
+ \end{minipage}
+\end{figure}
+\begin{figure}[H]
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+\includegraphics[width=50mm]{figures/group3.jpg}
+ \end{center}
+ \label{fig:seven}
+ \end{minipage}
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+ \includegraphics[width=50mm]{figures/group4.jpg}
+ \end{center}
+ \label{fig:eight}
+ \end{minipage}
+\end{figure}
+\begin{figure}[H]
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+\includegraphics[width=50mm]{figures/group5.jpg}
+ \end{center}
+ \label{fig:seven}
+ \end{minipage}
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+ \includegraphics[width=50mm]{figures/group6.jpg}
+ \end{center}
+ \label{fig:eight}
+ \end{minipage}
+\end{figure}
+\begin{figure}[H]
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+\includegraphics[width=50mm]{figures/group7.jpg}
+ \end{center}
+ \label{fig:seven}
+ \end{minipage}
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+ \includegraphics[width=50mm]{figures/group8.jpg}
+ \end{center}
+ \label{fig:eight}
+ \end{minipage}
+\end{figure}
+\begin{figure}[H]
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+\includegraphics[width=50mm]{figures/group9.jpg}
+ \end{center}
+ \label{fig:seven}
+ \end{minipage}
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+ \includegraphics[width=50mm]{figures/group10.jpg}
+ \end{center}
+ \label{fig:eight}
+ \end{minipage}
+\end{figure}
+\begin{figure}[H]
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+\includegraphics[width=50mm]{figures/group11.jpg}
+ \end{center}
+ \label{fig:seven}
+ \end{minipage}
+ \begin{minipage}{0.47\hsize}
+ \begin{center}
+ \includegraphics[width=50mm]{figures/group12.jpg}
+ \end{center}
+ \label{fig:eight}
+ \end{minipage}
+\end{figure}
+
+
 
 %--------------------------------------------------------------------
 % 図一覧

@@ -36,16 +36,15 @@
 \contentsline {subsection}{\numberline {6.2.1}実験手順}{20}
 \contentsline {subsection}{\numberline {6.2.2}評価方法}{21}
 \contentsline {subsubsection}{主観的評価}{21}
-\contentsline {subsubsection}{客観的評価}{21}
+\contentsline {subsubsection}{客観的評価}{22}
 \contentsline {section}{\numberline {6.3}実験準備}{22}
 \contentsline {subsubsection}{使用する５つのスキル}{22}
 \contentsline {subsubsection}{グループワークのテーマ決定}{22}
 \contentsline {subsubsection}{スキル入力ページの作成}{22}
-\contentsline {section}{\numberline {6.4}実験}{23}
-\contentsline {section}{\numberline {6.5}実験結果}{23}
-\contentsline {subsection}{\numberline {6.5.1}主観評価}{23}
-\contentsline {subsection}{\numberline {6.5.2}客観的評価}{24}
-\contentsline {section}{\numberline {6.6}考察}{25}
-\contentsline {chapter}{\numberline {第7章}結論と今後の展開}{27}
-\contentsline {section}{\numberline {7.1}まとめ}{27}
-\contentsline {section}{\numberline {7.2}今後の方針}{27}
+\contentsline {section}{\numberline {6.4}実験結果}{23}
+\contentsline {subsection}{\numberline {6.4.1}主観評価}{23}
+\contentsline {subsection}{\numberline {6.4.2}客観的評価}{25}
+\contentsline {section}{\numberline {6.5}考察}{26}
+\contentsline {chapter}{\numberline {第7章}結論と今後の展開}{28}
+\contentsline {section}{\numberline {7.1}まとめ}{28}
+\contentsline {section}{\numberline {7.2}今後の方針}{28}

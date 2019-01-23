@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  23 JAN 2019 13:45
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  23 JAN 2019 19:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -68,13 +68,46 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@floatcapt=\box43
 ) (./main.aux
 
-LaTeX Warning: Label `testtest' multiply defined.
+LaTeX Warning: Label `auto' multiply defined.
 
 
 LaTeX Warning: Label `testtest' multiply defined.
 
 
 LaTeX Warning: Label `testtest' multiply defined.
+
+
+LaTeX Warning: Label `testtest' multiply defined.
+
+
+LaTeX Warning: Label `fig:seven' multiply defined.
+
+
+LaTeX Warning: Label `fig:eight' multiply defined.
+
+
+LaTeX Warning: Label `fig:seven' multiply defined.
+
+
+LaTeX Warning: Label `fig:eight' multiply defined.
+
+
+LaTeX Warning: Label `fig:seven' multiply defined.
+
+
+LaTeX Warning: Label `fig:eight' multiply defined.
+
+
+LaTeX Warning: Label `fig:seven' multiply defined.
+
+
+LaTeX Warning: Label `fig:eight' multiply defined.
+
+
+LaTeX Warning: Label `fig:seven' multiply defined.
+
+
+LaTeX Warning: Label `fig:eight' multiply defined.
 
 )
 \openout1 = `main.aux'.
@@ -120,9 +153,9 @@ LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
 (Font)              Font shape `JY1/gt/m/n' tried instead on input line 44.
  [2] [3]
 LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JT1/gt/m/n' tried instead on input line 64.
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 65.
 LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <20.74> not available
-(Font)              Font shape `JY1/gt/m/n' tried instead on input line 64.
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 65.
  (./main.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 2.
@@ -152,7 +185,7 @@ LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
 ]
 第 2 章
 
-Overfull \hbox (18.37773pt too wide) in paragraph at lines 112--122
+Overfull \hbox (18.37773pt too wide) in paragraph at lines 114--124
  [][][] 
  []
 
@@ -163,7 +196,7 @@ Overfull \hbox (18.37773pt too wide) in paragraph at lines 112--122
 [4
 
 ]
-Overfull \hbox (18.37773pt too wide) in paragraph at lines 172--183
+Overfull \hbox (18.37773pt too wide) in paragraph at lines 174--185
  [][][] 
  []
 
@@ -176,7 +209,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-Overfull \hbox (27.60167pt too wide) in paragraph at lines 241--252
+Overfull \hbox (27.60167pt too wide) in paragraph at lines 243--254
  [][][] 
  []
 
@@ -229,14 +262,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/gamensenni.png Graphic file (type bmp)
 <figures/gamensenni.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 444--445
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 449--450
  [][] 
  []
 
 File: figures/chart.png Graphic file (type bmp)
 <figures/chart.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 451--452
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 456--457
  [][] 
  []
 
@@ -246,7 +279,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/groupseisei.png Graphic file (type bmp)
 <figures/groupseisei.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 464--465
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 469--470
  [][] 
  []
 
@@ -254,7 +287,7 @@ Overfull \hbox (8.79134pt too wide) in paragraph at lines 464--465
 File: figures/auto.png Graphic file (type bmp)
 <figures/auto.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 500--501
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 505--506
  [][] 
  []
 
@@ -263,54 +296,80 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 [18] [19]
 第 6 章
-File: figures/zikken1.png Graphic file (type bmp)
-<figures/zikken1.png>
+File: figures/zikkennyousu.png Graphic file (type bmp)
+<figures/zikkennyousu.png>
 [20
 
-] [21]
+]
+File: figures/zikken1.png Graphic file (type bmp)
+<figures/zikken1.png>
+ [21] [22]
 File: figures/test.png Graphic file (type bmp)
 <figures/test.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 559--560
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 573--574
  [][] 
  []
 
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-File: figures/test.png Graphic file (type bmp)
-<figures/test.png>
-[22]
-File: figures/test.png Graphic file (type bmp)
-<figures/test.png>
- [23]
-File: figures/test.png Graphic file (type bmp)
-<figures/test.png>
- [24] [25] [26]
+File: honhon0.png Graphic file (type bmp)
+<honhon0.png>
+[23]
+File: honban2.png Graphic file (type bmp)
+<honban2.png>
+File: honban1.png Graphic file (type bmp)
+<honban1.png>
+ [24] [25] [26] [27]
 第 7 章
-[27
-
-] [28
+[28
 
 ] [29
 
-] [30] [31
+] [30
 
-] [32
+] [31] [32
 
-] (./main.lof)
+]
+File: figures/group1.jpg Graphic file (type bmp)
+<figures/group1.jpg>
+File: figures/group2.jpg Graphic file (type bmp)
+<figures/group2.jpg>
+File: figures/group3.jpg Graphic file (type bmp)
+<figures/group3.jpg>
+File: figures/group4.jpg Graphic file (type bmp)
+<figures/group4.jpg>
+File: figures/group5.jpg Graphic file (type bmp)
+<figures/group5.jpg>
+File: figures/group6.jpg Graphic file (type bmp)
+<figures/group6.jpg>
+File: figures/group7.jpg Graphic file (type bmp)
+<figures/group7.jpg>
+File: figures/group8.jpg Graphic file (type bmp)
+<figures/group8.jpg>
+ [33
+
+]
+File: figures/group9.jpg Graphic file (type bmp)
+<figures/group9.jpg>
+File: figures/group10.jpg Graphic file (type bmp)
+<figures/group10.jpg>
+File: figures/group11.jpg Graphic file (type bmp)
+<figures/group11.jpg>
+File: figures/group12.jpg Graphic file (type bmp)
+<figures/group12.jpg>
+ [34] [35] (./main.lof)
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [33
+ [36
 
 ] (./main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [34
+ [37
 
-] (./main.aux)
+]
+(./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -319,12 +378,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 932 strings out of 493281
- 11373 string characters out of 6145040
+ 986 strings out of 493281
+ 12433 string characters out of 6145040
  82311 words of memory out of 5000000
- 4878 multiletter control sequences out of 15000+600000
+ 4912 multiletter control sequences out of 15000+600000
  17885 words of font info for 69 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
- 28i,10n,25p,946b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 28i,10n,25p,918b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (39 pages, 107356 bytes).
+Output written on main.dvi (42 pages, 111948 bytes).
