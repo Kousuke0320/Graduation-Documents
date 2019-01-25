@@ -41,10 +41,10 @@
 \contentsline {subsubsection}{使用する５つのスキル}{22}
 \contentsline {subsubsection}{グループワークのテーマ決定}{22}
 \contentsline {subsubsection}{スキル入力ページの作成}{23}
-\contentsline {section}{\numberline {6.4}実験結果}{23}
-\contentsline {subsection}{\numberline {6.4.1}主観評価}{23}
+\contentsline {section}{\numberline {6.4}実験結果}{24}
+\contentsline {subsection}{\numberline {6.4.1}主観評価}{24}
 \contentsline {subsection}{\numberline {6.4.2}客観的評価}{25}
-\contentsline {section}{\numberline {6.5}考察}{26}
-\contentsline {chapter}{\numberline {第7章}結論と今後の展開}{28}
-\contentsline {section}{\numberline {7.1}まとめ}{28}
-\contentsline {section}{\numberline {7.2}今後の方針}{28}
+\contentsline {section}{\numberline {6.5}考察}{27}
+\contentsline {chapter}{\numberline {第7章}結論と今後の展開}{29}
+\contentsline {section}{\numberline {7.1}まとめ}{29}
+\contentsline {section}{\numberline {7.2}今後の方針}{29}
