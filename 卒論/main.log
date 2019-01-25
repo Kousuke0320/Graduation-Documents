@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  23 JAN 2019 19:05
+This is e-pTeX, Version 3.14159265-p3.8.0-180226-2.6 (utf8.euc) (TeX Live 2018) (preloaded format=platex 2018.12.21)  24 JAN 2019 22:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -69,6 +69,9 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 ) (./main.aux
 
 LaTeX Warning: Label `auto' multiply defined.
+
+
+LaTeX Warning: Label `testtest' multiply defined.
 
 
 LaTeX Warning: Label `testtest' multiply defined.
@@ -185,7 +188,7 @@ LaTeX Font Warning: Font shape `JY1/mc/m/it' undefined
 ]
 第 2 章
 
-Overfull \hbox (18.37773pt too wide) in paragraph at lines 114--124
+Overfull \hbox (18.37773pt too wide) in paragraph at lines 116--127
  [][][] 
  []
 
@@ -196,7 +199,7 @@ Overfull \hbox (18.37773pt too wide) in paragraph at lines 114--124
 [4
 
 ]
-Overfull \hbox (18.37773pt too wide) in paragraph at lines 174--185
+Overfull \hbox (18.37773pt too wide) in paragraph at lines 177--188
  [][][] 
  []
 
@@ -208,12 +211,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-
-Overfull \hbox (27.60167pt too wide) in paragraph at lines 243--254
+[5]
+Overfull \hbox (27.60167pt too wide) in paragraph at lines 251--263
  [][][] 
  []
 
-[5]
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
@@ -262,14 +264,14 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/gamensenni.png Graphic file (type bmp)
 <figures/gamensenni.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 449--450
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 456--457
  [][] 
  []
 
 File: figures/chart.png Graphic file (type bmp)
 <figures/chart.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 456--457
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 463--464
  [][] 
  []
 
@@ -279,7 +281,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 File: figures/groupseisei.png Graphic file (type bmp)
 <figures/groupseisei.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 469--470
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 476--477
  [][] 
  []
 
@@ -287,7 +289,7 @@ Overfull \hbox (8.79134pt too wide) in paragraph at lines 469--470
 File: figures/auto.png Graphic file (type bmp)
 <figures/auto.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 505--506
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 512--513
  [][] 
  []
 
@@ -303,11 +305,15 @@ File: figures/zikkennyousu.png Graphic file (type bmp)
 ]
 File: figures/zikken1.png Graphic file (type bmp)
 <figures/zikken1.png>
- [21] [22]
+ [21]
+
+LaTeX Warning: Reference `sss' on page 22 undefined on input line 565.
+
+[22]
 File: figures/test.png Graphic file (type bmp)
 <figures/test.png>
 
-Overfull \hbox (8.79134pt too wide) in paragraph at lines 573--574
+Overfull \hbox (8.79134pt too wide) in paragraph at lines 583--584
  [][] 
  []
 
@@ -318,15 +324,24 @@ File: honban2.png Graphic file (type bmp)
 <honban2.png>
 File: honban1.png Graphic file (type bmp)
 <honban1.png>
- [24] [25] [26] [27]
+ [24]
+File: figures/extest.png Graphic file (type bmp)
+<figures/extest.png>
+ [25]
+
+LaTeX Warning: Reference `A6' on page 26 undefined on input line 671.
+
+[26] [27]
 第 7 章
+File: figures/groupChart.png Graphic file (type bmp)
+<figures/groupChart.png>
 [28
 
-] [29
+] [29] [30
 
-] [30
+] [31
 
-] [31] [32
+] [32] [33
 
 ]
 File: figures/group1.jpg Graphic file (type bmp)
@@ -345,7 +360,7 @@ File: figures/group7.jpg Graphic file (type bmp)
 <figures/group7.jpg>
 File: figures/group8.jpg Graphic file (type bmp)
 <figures/group8.jpg>
- [33
+ [34
 
 ]
 File: figures/group9.jpg Graphic file (type bmp)
@@ -356,34 +371,37 @@ File: figures/group11.jpg Graphic file (type bmp)
 <figures/group11.jpg>
 File: figures/group12.jpg Graphic file (type bmp)
 <figures/group12.jpg>
- [34] [35] (./main.lof)
+ [35] [36] (./main.lof)
 \tf@lof=\write4
 \openout4 = `main.lof'.
 
- [36
+ [37
 
 ] (./main.lot)
 \tf@lot=\write5
 \openout5 = `main.lot'.
 
- [37
 
-]
-(./main.aux)
+[38
+
+] (./main.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 986 strings out of 493281
- 12433 string characters out of 6145040
+ 995 strings out of 493281
+ 12576 string characters out of 6145040
  82311 words of memory out of 5000000
- 4912 multiletter control sequences out of 15000+600000
+ 4919 multiletter control sequences out of 15000+600000
  17885 words of font info for 69 fonts, out of 8000000 for 9000
  929 hyphenation exceptions out of 8191
  28i,10n,25p,918b,377s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (42 pages, 111948 bytes).
+Output written on main.dvi (43 pages, 117144 bytes).
