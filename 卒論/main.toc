@@ -17,7 +17,7 @@
 \contentsline {section}{\numberline {4.2}調査方法}{8}
 \contentsline {subsection}{\numberline {4.2.1}質問内容}{9}
 \contentsline {section}{\numberline {4.3}調査結果}{9}
-\contentsline {section}{\numberline {4.4}考察}{12}
+\contentsline {section}{\numberline {4.4}考察}{11}
 \contentsline {chapter}{\numberline {第5章}システムの提案}{13}
 \contentsline {section}{\numberline {5.1}提案コンセプト}{13}
 \contentsline {section}{\numberline {5.2}開発環境}{13}
@@ -27,25 +27,25 @@
 \contentsline {subsection}{\numberline {5.2.4}システム構造}{14}
 \contentsline {section}{\numberline {5.3}プロトタイプ制作}{15}
 \contentsline {subsection}{\numberline {5.3.1}画面構造}{16}
-\contentsline {subsection}{\numberline {5.3.2}グループ自動生成機能}{18}
-\contentsline {subsubsection}{グループ生成までの流れ}{18}
-\contentsline {subsubsection}{グループ自動生成の構造}{19}
-\contentsline {chapter}{\numberline {第6章}実験}{21}
-\contentsline {section}{\numberline {6.1}実験目的}{21}
-\contentsline {section}{\numberline {6.2}実験方法}{21}
-\contentsline {subsection}{\numberline {6.2.1}実験手順}{21}
-\contentsline {subsection}{\numberline {6.2.2}評価方法}{22}
-\contentsline {subsubsection}{主観的評価}{22}
-\contentsline {subsubsection}{客観的評価}{22}
-\contentsline {section}{\numberline {6.3}実験準備}{23}
-\contentsline {subsubsection}{使用する５つのスキル}{23}
-\contentsline {subsubsection}{グループワークのテーマ決定}{23}
-\contentsline {subsubsection}{スキル入力ページの作成}{23}
-\contentsline {section}{\numberline {6.4}実験の実施}{24}
-\contentsline {section}{\numberline {6.5}実験結果}{25}
-\contentsline {subsection}{\numberline {6.5.1}主観評価}{25}
-\contentsline {subsection}{\numberline {6.5.2}客観的評価}{27}
-\contentsline {section}{\numberline {6.6}考察}{28}
-\contentsline {chapter}{\numberline {第7章}まとめと今後の方針}{30}
-\contentsline {section}{\numberline {7.1}まとめ}{30}
-\contentsline {section}{\numberline {7.2}今後の方針}{30}
+\contentsline {subsection}{\numberline {5.3.2}グループ自動生成機能}{17}
+\contentsline {subsubsection}{グループ生成までの流れ}{17}
+\contentsline {subsubsection}{グループ自動生成の構造}{18}
+\contentsline {chapter}{\numberline {第6章}実験}{20}
+\contentsline {section}{\numberline {6.1}実験目的}{20}
+\contentsline {section}{\numberline {6.2}実験方法}{20}
+\contentsline {subsection}{\numberline {6.2.1}実験手順}{20}
+\contentsline {subsection}{\numberline {6.2.2}評価方法}{21}
+\contentsline {subsubsection}{主観的評価}{21}
+\contentsline {subsubsection}{客観的評価}{21}
+\contentsline {section}{\numberline {6.3}実験準備}{22}
+\contentsline {subsubsection}{使用する５つのスキル}{22}
+\contentsline {subsubsection}{グループワークのテーマ決定}{22}
+\contentsline {subsubsection}{スキル入力ページの作成}{22}
+\contentsline {section}{\numberline {6.4}実験の実施}{23}
+\contentsline {section}{\numberline {6.5}実験結果}{24}
+\contentsline {subsection}{\numberline {6.5.1}主観評価}{24}
+\contentsline {subsection}{\numberline {6.5.2}客観的評価}{26}
+\contentsline {section}{\numberline {6.6}考察}{27}
+\contentsline {chapter}{\numberline {第7章}まとめと今後の方針}{29}
+\contentsline {section}{\numberline {7.1}まとめ}{29}
+\contentsline {section}{\numberline {7.2}今後の方針}{29}

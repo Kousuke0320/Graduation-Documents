@@ -1,0 +1,48 @@
+平成30年度 公立はこだて未来大学卒業論文 
+
+創造活動におけるグループ編成支援ツールの提案
+
+田中 康介　
+
+情報アーキテクチャ学科　1015013
+
+
+
+指導教員　姜 南圭　　
+
+提出日　2019年1月29日
+
+
+
+
+
+
+
+Suggestion of group work support tool in the design 
+
+process
+
+By
+
+Kosuke TANAKA 
+
+BA Thesis at Future University Hakodate, 2018
+
+Advisor: Prof. Namgyu KANG   
+
+Department of Media Architecture
+
+Future University Hakodate
+
+January 29, 2019
+
+
+Abstract- Currently, problems that designers have to deal with are considering the relationship with the users and the society. Therefore, it becomes difficult to find the best answer with the sensitivity and creativity of individual designers. As a result, it is required to organize teams by members with various skills and to conduct creative activities systematically. In the previous studies, group organization is done in various ways. But the group is made by the intention of the experimenter, users can not recognize what kind of group they are. Consequently, we conducted a survey about group work in creative activities. As a result, most people chose group work rather than personal work for different reasons such as expanding their own vision. Therefore, it was thought that it is necessary to visualize the skill of the user. 
+We suggest a web application for organizing based on more user's point of view by visualizing the user's skill. Results of experiment, It could not confirm the improvement of creativity, but we confirmed the stability of result and high satisfaction level of group work.
+
+Keywords: Design process, Group work, Web application, Creativity
+
+
+概要: 現在デザイナーが対処すべき問題は，ユーザや社会との関係性をより丹念に考慮することが 求められるようになり，デザイナー個人の感性や創造性だけでは最適な答えを出すことは難しくなっている.このことから，多種多様なスキルを持つメンバーによってチームを組み，組織的に創造活動をすることが求められている.  先行研究では，様々な方法でグループ編成を行なっている.しかし，グループは実験者が意図して編成しているため，被験者側がどのようなグループなのか把握できない問題がある.  創造活動におけるグループワークの現状についてのアンケート調査を行った結果，視野が広がるなどの理由から，自分と異なるスキルを持つ人とグループワークを支持する人が大多数であるということが分かり，スキルを可視化することが必要であることが考えられた．そこでユーザのスキルを可視化することにより，よりユーザー視点のグループ編成を行うための Web アプリケーションの提案を行った．システムの有用性を確認する実験を行なった結果，創造性の向上の観点では有用性を確認できなかったが，成果の安定やグループの満足度の観点で有用性を確認した．
+
+キーワード: デザインプロセス，グループワーク，ウェブアプリケーション，創造性
